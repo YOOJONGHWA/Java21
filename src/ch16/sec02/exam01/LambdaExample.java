@@ -1,4 +1,4 @@
-package chh16.sec02.exam01;
+package ch16.sec02.exam01;
 
 public class LambdaExample {
 
